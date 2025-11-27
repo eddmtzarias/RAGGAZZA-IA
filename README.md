@@ -1,0 +1,2 @@
+# RAGGAZZA-IA
+Creacion de programa de aspecto inteligencia artificial para la generación de proyectos educativos
