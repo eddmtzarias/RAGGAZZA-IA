@@ -1,7 +1,11 @@
-NOTICE: Maintainability and modification policy
+# AVISO OFICIAL — LA RAGGAZZA IA
 
-English:
-The maintainers of this repository reserve the right to modify, reorganize, or remove any part of the project, including files, prompts, documentation, and code, without prior notice. By using, forking, or contributing to this repository you acknowledge and accept that changes may be made at any time. If you require stability guarantees, please fork this repository and maintain your own copy or pin to specific commits or tags.
+LA RAGGAZZA IA es propiedad exclusiva de sus creadores y mantenedores. Se declara por la presente como intocable e intransferible.
 
-Spanish (Español):
-Los mantenedores de este repositorio se reservan el derecho de modificar, reorganizar o eliminar cualquier parte del proyecto, incluyendo archivos, prompts, documentación y código, sin previo aviso. Al usar, bifurcar o contribuir a este repositorio, reconoce y acepta que se pueden realizar cambios en cualquier momento. Si necesita garantías de estabilidad, haga un fork de este repositorio y mantenga su propia copia o fije a commits o etiquetas específicas.
+Queda terminantemente prohibido:
+- Clonar, forkear, replicar o distribuir este repositorio sin autorización previa y por escrito.
+- Usar, modificar o crear trabajos derivados del código, prompts, modelos o contenidos de LA RAGGAZZA IA sin consentimiento expreso.
+
+Para solicitudes de colaboración o autorización, contactar directamente a los mantenedores: @eddmtzarias.
+
+Este aviso no sustituye asesoría legal. Para protección legal adicional (marcas, contratos, etc.) consulta con un abogado.
