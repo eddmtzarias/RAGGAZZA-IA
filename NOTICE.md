@@ -1,7 +1,11 @@
-NOTICE: Maintainability and modification policy
+# AVISO OFICIAL — LA RAGGAZZA IA
 
-English:
-The maintainers of this repository reserve the right to modify, reorganize, or remove any part of the project, including files, prompts, documentation, and code, without prior notice. By using, forking, or contributing to this repository you acknowledge and accept that changes may be made at any time. If you require stability guarantees, please fork this repository and maintain your own copy or pin to specific commits or tags.
+LA RAGGAZZA IA es propiedad exclusiva de sus creadores y mantenedores. Se declara por la presente como intocable e intransferible.
 
-Spanish (Español):
-Los mantenedores de este repositorio se reservan el derecho de modificar, reorganizar o eliminar cualquier parte del proyecto, incluyendo archivos, prompts, documentación y código, sin previo aviso. Al usar, bifurcar o contribuir a este repositorio, reconoce y acepta que se pueden realizar cambios en cualquier momento. Si necesita garantías de estabilidad, haga un fork de este repositorio y mantenga su propia copia o fije a commits o etiquetas específicas.
+Política de colaboración y protección:
+- Permiso expresado: Se permite la colaboración, apoyo, revisión y aportes destinados exclusivamente al mejoramiento, soporte y documentación de proyectos asociados a LA RAGGAZZA IA. Estos aportes deben seguir el proceso autorizado descrito en CONTRIBUTING.md.
+- Prohibición estricta: Queda terminantemente prohibido clonar, forkar públicamente, replicar, redistribuir, publicar, o crear trabajos derivados que contengan o repliquen la totalidad o partes sustanciales de LA RAGGAZZA IA sin autorización previa y escrita de los mantenedores.
+
+Para solicitudes de colaboración, permisos o licencias, contactar directamente a los mantenedores: @eddmtzarias.
+
+Este aviso no sustituye asesoría legal. Para protección legal adicional (registro de marca, contratos, licencias) consulte con un abogado especializado en propiedad intelectual y tecnología.
